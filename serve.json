@@ -1,0 +1,10 @@
+{
+    "port" : "3000",
+    "content" : "./serve.html",
+    "route" : "/",
+    "action" : "/login",
+    "method" : "POST",
+    "username": "username",
+    "password": "password",
+    "redirect" : "https://github.com/ricardoGonzf/palangre"
+}

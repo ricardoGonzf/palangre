@@ -1,0 +1,32 @@
+{
+  "name": "palangre",
+  "version": "0.1.0",
+  "description": "Phising tool developed in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardoGonzf/palangre.git"
+  },
+  "keywords": [
+    "phising",
+    "hacking",
+    "education"
+  ],
+  "author": "Ricardo González",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ricardoGonzf/palangre/issues"
+  },
+  "homepage": "https://github.com/ricardoGonzf/palangre#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "chalk": "4.1.2",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
